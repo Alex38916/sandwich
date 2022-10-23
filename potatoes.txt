@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 sauces!!!
 
 ketchup
 autres
+=======
+sauces
+
+autre modifs !!
+et puis mayo finalement 
+>>>>>>> develop-2
